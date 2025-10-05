@@ -1,5 +1,5 @@
 <p align="center">
-Translations <br>
+Переводы <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CODE_OF_CONDUCT.md>🇩🇪 DE   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/CODE_OF_CONDUCT.md>🇬🇧 EN   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/CODE_OF_CONDUCT.md>🇫🇷 FR   </a>
