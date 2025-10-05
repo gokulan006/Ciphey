@@ -1,7 +1,6 @@
-<!-- comunity -->
-<!-- [markdownlint-enable](https://github.com/AABur) -->
 
 <p align="center">
+Переводы <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/README.md>🇩🇪 DE   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/README.md>🇬🇧 EN   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/README.md>🇫🇷 FR   </a>
