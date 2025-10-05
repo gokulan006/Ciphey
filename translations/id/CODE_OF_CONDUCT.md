@@ -3,6 +3,7 @@ Terjemahan <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CODE_OF_CONDUCT.md>🇩🇪 DE   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/CODE_OF_CONDUCT.md>🇬🇧 EN   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hu/CODE_OF_CONDUCT.md>🇭🇺 HU   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hi/CODE_OF_CONDUCT.md>🇮🇳 HI   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/id/CODE_OF_CONDUCT.md>🇮🇩 ID   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/it/CODE_OF_CONDUCT.md>🇮🇹 IT   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/nl/CODE_OF_CONDUCT.md>🇳🇱 NL   </a>
