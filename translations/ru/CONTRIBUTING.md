@@ -2,6 +2,7 @@
 Translations <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CONTRIBUTING.md>🇩🇪 DE   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CONTRIBUTING.md>🇬🇧 EN   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/CONTRIBUTING.md>🇫🇷 FR   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hu/CONTRIBUTING.md>🇭🇺 HU   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hi/CONTRIBUTING.md>🇮🇳 HI   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/id/CONTRIBUTING.md>🇮🇩 ID   </a>
@@ -9,6 +10,7 @@ Translations <br>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/nl/CONTRIBUTING.md>🇳🇱 NL   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/pt-br/CONTRIBUTING.md>🇧🇷 PT-BR   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/ru/CONTRIBUTING.md>🇷🇺 RU   </a>
+<a href="https://github.com/Ciphey/Ciphey/tree/master/translations/th/CONTRIBUTING.md">🇹🇭 TH   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/zh/CONTRIBUTING.md>🇨🇳 ZH   </a>
 </p>
 
