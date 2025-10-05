@@ -3,6 +3,7 @@
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/CONTRIBUTING.md>🇩🇪 DE   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/CONTRIBUTING.md>🇬🇧 EN   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hu/CONTRIBUTING.md>🇭🇺 HU   </a>
+<a href=https://github.com/Ciphey/Ciphey/tree/master/translations/hi/CONTRIBUTING.md>🇮🇳 HI   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/id/CONTRIBUTING.md>🇮🇩 ID   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/it/CONTRIBUTING.md>🇮🇹 IT   </a>
 <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/nl/CONTRIBUTING.md>🇳🇱 NL   </a>
@@ -66,5 +67,6 @@ Ciphey को हमेशा अधिक डिकोडिंग टूल्
 हमारे GitHub-Issues पृष्ठ पर जाएं जहाँ आपको Ciphey की सभी समस्याएँ मिलेंगी! उन्हें ठीक करें और आप योगदानकर्ताओं की सूची में आ जाएंगे ;)
 
 # कोडबेस को रिफैक्टर करें
+
 
 Ciphey के सभी हिस्से PEP8 दिशानिर्देशों का पालन नहीं करते, और बहुत सारे दोहराए गए कोड हैं।
